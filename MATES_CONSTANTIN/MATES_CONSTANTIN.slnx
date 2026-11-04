@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="MatesConsola/MatesConsola.csproj" />
+  <Project Path="MatesLib/MatesLib.csproj" />
+</Solution>
